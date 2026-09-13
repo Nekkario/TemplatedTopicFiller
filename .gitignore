@@ -1,0 +1,23 @@
+## --- .NET / C# Build Outputs ---
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## --- JetBrains Rider / IntelliJ IDE ---
+.idea/
+*.sln.iml
+*.suo
+
+## --- Visual Studio / Windows Artifacts ---
+.vs/
+Thumbs.db
+Desktop.ini
+
+## --- NuGet Packages ---
+*.nuget.dgspec.json
+project.lock.json
+project.assets.json
+packages/
